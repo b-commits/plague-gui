@@ -1,0 +1,16 @@
+coord mapping
+
+- Poland - 920, 198
+- Hubei, CH - 1471, 308
+- India - 1285,  400
+- Japan - 1610, 305
+- Russia - 1265, 130
+- Korea - 1550, 305
+- Germany - 870, 205
+- USA - 235, 285
+- Canada - 285, 165
+- France - 830, 235
+- Brazil - 500, 625
+- UK - 810, 192
+- Turkey - 1010, 290
+- Sweden - 896, 140
