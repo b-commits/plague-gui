@@ -404,6 +404,7 @@ public class World extends JPanel {
     }
 
     private void lockPerks() {
+        // refactor
         side.getBuildARespirator().setEnabled(false);
         side.getBanTraffic().setEnabled(false);
         side.getDevelopAVaccine().setEnabled(false);
